@@ -133,15 +133,15 @@ let checkInventory = function (item, userSelections) {
      })
  }
  // Use inquirer prompt to ask user if they wqant to continue shopping 
- this.stillShopping = function(){
+ const stillShopping = function(){
      inquirer.prompt([{
          type: "yes",
          message: "Continue to shop?",
-         name: "yes",
+         name: "true",
          default: "true"
      }])
      .then(function(response){
-         if (response.yes){
+         if (response.true){
              displayItems();
          } else {
              console.log("Thank you! Please visit again!");
