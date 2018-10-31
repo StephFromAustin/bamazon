@@ -24,3 +24,6 @@ In the terminal a customer will be able to view products, the department the pro
 
 ### Screenshot of terminal when second question (Desired Quantity) is prompted. 
 ![Second Prompt](screenshots/SecondPrompt.png)
+
+### Screenshot of application's final terminal output. 
+![Final Output](screenshots/Final.png)
