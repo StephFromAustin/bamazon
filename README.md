@@ -15,4 +15,4 @@ In the terminal a customer will be able to view products, the department the pro
 - **node bamazonCustomer.js**
 
 ## **Screen Shots**:
-![alt text](screenshots/runnodeJS.png "Run NodeJS")
+![alt text](screenshots/RunNodeJs.png"Run NodeJS")
