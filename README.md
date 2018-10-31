@@ -16,4 +16,4 @@ In the terminal a customer will be able to view products, the department the pro
 - **node bamazonCustomer.js**
 
 ## **Screen Shots**:
-![Run NodeJs](desktop/bootcamp/homeworks/homework_8/bamazon/bamazon/screenshots/runnodejs.png)
+![Run NodeJs](screenshots/RunNodeJS.png)
