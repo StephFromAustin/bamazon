@@ -19,5 +19,6 @@ In the terminal a customer will be able to view products, the department the pro
 ### Screenshot of terminal after running node customerbamazon.js
 ![Run NodeJs](screenshots/RunNodeJS.png)
 
+### Screenshot of terminal when first prompt (What item would the customer like) renders. 
 ![First Prompt](screenshots/FirstPrompt.png)
 
