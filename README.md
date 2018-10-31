@@ -17,3 +17,6 @@ In the terminal a customer will be able to view products, the department the pro
 
 ## **Screen Shots**:
 ![Run NodeJs](screenshots/RunNodeJS.png)
+
+![First Prompt](screenshots/FirstPromt.png)
+
