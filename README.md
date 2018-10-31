@@ -16,7 +16,8 @@ In the terminal a customer will be able to view products, the department the pro
 - **node bamazonCustomer.js**
 
 ## **Screen Shots**:
+### Screenshot of terminal after running node customerbamazon.js
 ![Run NodeJs](screenshots/RunNodeJS.png)
 
-![First Prompt](screenshots/FirstPromt.png)
+![First Prompt](screenshots/FirstPrompt.png)
 
