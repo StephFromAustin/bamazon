@@ -1,6 +1,7 @@
 # bamazon
 
-## **Welcome to my bAmazon application!** In this application an Amazon-like storefront was created using MySQL. The application takes orders from customers and will update stock from the inventory. 
+## **Welcome to my bAmazon application!** 
+### In this application an Amazon-like storefront was created using MySQL. The application takes orders from customers and will update stock from the inventory. 
 
 ## **Technologies used were**:
 - NodeJS,
@@ -15,4 +16,4 @@ In the terminal a customer will be able to view products, the department the pro
 - **node bamazonCustomer.js**
 
 ## **Screen Shots**:
-![alt text](screenshots/RunNodeJs.png"Run NodeJS")
+![alt text](screenshots/RunNodeJs.png "Run NodeJS")
